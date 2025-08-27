@@ -1,4 +1,5 @@
 AIoT Agents at the Edge: How Python Can Power Strategic Automation
+
 We’re living in a world where devices are no longer just “connected” — they’re becoming intelligent collaborators. Your fridge tells you when milk is low, solar panels decide how to optimize energy flow, and factory robots negotiate production schedules with each other.
 This convergence of Artificial Intelligence (AI) and Internet of Things (IoT) — what many call AIoT — is reshaping industries. And when these agents make decisions at the edge (on-site, near the data source) instead of relying entirely on the cloud, we unlock something far more powerful: strategic automation.
 But what does that actually mean in practice? Let’s explore, with Python as our guide.
