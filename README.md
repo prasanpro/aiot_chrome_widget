@@ -22,10 +22,15 @@ An edge agent is like a mini-brain, built in layers:
 ________________________________________
 💻 Python in Action: Building a Simple Agent
 Let’s say we’re building an AIoT cooling agent for a factory machine. Its job: watch temperature, decide if cooling is needed, and coordinate with other agents.
+
 Step 1: Data Collection ---> randomTempSensor.py
+
 Step 2: AI-Powered Decision ---> cooling_model.py ---> cooling_model.pkl
+
 Step 3: Action Layer ---> randomTempSensor.py
+
 Step 4: Communication Between Agents ---> randomTempSensor.py ---> bridge.py
+
 Step 5: Getting Cooling Status on a Chrome Widget ---> coolingWidget.js
 
 🧠 Strategic Automation: Beyond “If Temperature > X”
